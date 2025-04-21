@@ -1,0 +1,12 @@
+How to Use
+Create the file:
+vi jenkins-install.sh
+
+Paste the script and save it (:wq in vi).
+
+Make it executable:
+
+chmod +x jenkins-install.sh
+Run it:
+
+./jenkins-install.sh
